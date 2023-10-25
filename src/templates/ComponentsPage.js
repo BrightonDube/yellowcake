@@ -8,7 +8,7 @@ import Accordion from '../components/Accordion'
 import BackgroundVideo from '../components/BackgroundVideo'
 import Gallery from '../components/Gallery'
 import Popup from '../components/Popup'
-//import Video from '../../static/save water.mp4'
+import Video from '../../static/save water.mp4'
 
 // Export Template for use in CMS preview
 export const ComponentsPageTemplate = ({
@@ -51,7 +51,7 @@ export const ComponentsPageTemplate = ({
 
     <section className="BackgroundVideo-section section">
       <BackgroundVideo poster={videoPoster} videoTitle={videoTitle}>
-        {video && <source src={video} type="video/mp4" />}
+        {Video && <source src={Video} type="video/mp4" />}
       </BackgroundVideo>
     </section>
 
