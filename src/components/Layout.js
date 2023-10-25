@@ -4,7 +4,7 @@ import { StaticQuery, graphql } from 'gatsby'
 import Meta from './Meta'
 import Nav from './Nav'
 import Footer from './Footer'
-import GithubCorner from './GithubCorner'
+// import GithubCorner from './GithubCorner'
 
 import 'modern-normalize/modern-normalize.css'
 import './globalStyles.css'
@@ -72,8 +72,8 @@ export default ({ children, meta, title }) => {
               {...meta}
               {...data.settingsYaml}
             />
-
-            <GithubCorner url="https://github.com/BrightonDube/Water_Frontiers" />
+{/* 
+            <GithubCorner url="https://github.com/BrightonDube/Water_Frontiers" /> */}
 
             <Nav subNav={subNav} />
 
