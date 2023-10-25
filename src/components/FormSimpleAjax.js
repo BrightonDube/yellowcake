@@ -94,7 +94,7 @@ class Form extends React.Component {
               <span>Lastname</span>
             </label>
           </div>
-          <fieldset>
+          {/* <fieldset>
             <label className="Form--Label Form--Radio">
               <input
                 className="Form--RadioInput"
@@ -114,7 +114,7 @@ class Form extends React.Component {
               />
               <span>Female</span>
             </label>
-          </fieldset>
+          </fieldset> */}
           <label className="Form--Label">
             <input
               className="Form--Input Form--InputText"
@@ -136,8 +136,8 @@ class Form extends React.Component {
                 Type of Enquiry
               </option>
               <option>Need to know more</option>
+              <option>Need a quoation</option>
               <option>Found a bug</option>
-              <option>Want to say hello</option>
             </select>
           </label>
           <label className="Form--Label">
