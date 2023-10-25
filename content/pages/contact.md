@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact Us
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
+featuredImage: https://ucarecdn.com/1daf38b9-3f5e-49a2-947a-24587ed0b338/
 subtitle: Get in Touch with Us; We’re Here to Help You with Your Water Management Needs.
 address: '129 Freesia Drive, Country View, Midrand'
 phone: 082 600-2142 or 061 589-5614
