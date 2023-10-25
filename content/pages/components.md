@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: components
 title: Projects
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
+featuredImage: https://ucarecdn.com/f26e05e3-bcbf-46f8-a287-35a9c9393317/
 subtitle: Innovative Projects by Waters Without Frontiers
 section1: >-
   ## Revolutionizing Water Management Across Sectors
@@ -29,15 +29,15 @@ accordion:
   - description: Land stability is a critical factor in safe land use, especially in areas where water may pose a risk. Our team conducts comprehensive investigations into soil properties and geological hazards. The insights we gain from these investigations enable us to evaluate the risk of landslides and other hazards, ensuring the safety of communities and the environment.
     title: Land Stability Investigations
 gallery:
-  - alt: yellow rope image
-    image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
-    title: Yellow Rope
-  - alt: umbrellas
-    image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
-    title: Yellow Ice Cream
+  - alt: Environmental Investigations
+    image: https://ucarecdn.com/1ecdd62b-4c07-4df4-8484-fda22a6af4c8/
+    title: Environmental Investigations
+  - alt: land image
+    image: https://ucarecdn.com/d85d5f76-1ab7-4297-b32f-e9eff2038e61/
+    title: Land Stability Investigations
+  - alt: dewatering image
+    image: https://ucarecdn.com/3a5d9fd4-e6d6-4644-ab52-314df26b6a20/
+    title: Mine Dewatering
 meta:
   description: This is a meta description.
   title: Components Page
