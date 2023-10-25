@@ -1,6 +1,6 @@
 ---
-template: DefaultPage
-slug: default
+template: AboutPage
+slug: about
 title: About Us
 featuredImage: https://ucarecdn.com/8bfac89b-ffdf-4578-b7c1-a4797b515279/
 meta:
