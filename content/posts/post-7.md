@@ -1,15 +1,12 @@
 ---
 template: SinglePost
-title: Chairs
+title: Making Water Safe
 status: Featured / Published
 date: '2018-03-27'
 featuredImage: >-
-  https://ucarecdn.com/f540281a-41cf-4bfa-8181-b172e2655fba/-/crop/1632x1777/0,672/-/preview/
+  https://ucarecdn.com/f54298d5-fc08-41d3-971a-99b24473b2e1/-/crop/1632x1777/0,672/-/preview/
 excerpt: >-
-  Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam
-  interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus
-  est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
-  pellentesque, lacinia risus ut, imperdiet eros.
+  Water is the essence of life, and access to safe drinking water is a fundamental human right. However, according to the World Health Organization, nearly 2 billion people worldwide drink contaminated water. This blog post aims to provide practical steps on how to make water safe for consumption.
 categories:
   - category: News
 meta:
@@ -18,41 +15,46 @@ meta:
   noindex: false
   title: test meta title
 ---
-Paragraphs are separated by a blank line.
 
-![Test Image](https://ucarecdn.com/ac9898a0-413a-467b-95fa-0a9959c30710/)
+![Test Image](https://ucarecdn.com/f54298d5-fc08-41d3-971a-99b24473b2e1/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Id64silK_7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rXepkIWPhFQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+# Making Water Safe: A Comprehensive Guide
 
-### Unordered lists:
+Water is the essence of life, and access to safe drinking water is a fundamental human right. However, according to the World Health Organization, nearly 2 billion people worldwide drink contaminated water. This blog post aims to provide practical steps on how to make water safe for consumption.
 
-* this one
-* that one
-* the other one
+# Understanding Water Contamination
 
-### Ordered lists:
+Water can be contaminated by various sources such as bacteria, viruses, parasites, and chemicals. These contaminants can lead to serious health issues like diarrhea, cholera, dysentery, typhoid, and polio. Therefore, it’s crucial to ensure that the water we consume is free from these harmful substances.
 
-1. first item
-2. second item
-3. third item
+# Methods for Making Water Safe
 
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+## Boiling
 
-## Heading 2
+Boiling is one of the most effective methods to make water safe. It kills most types of disease-causing organisms. Here’s how you can do it:
 
-# Heading 1
+1. Fill a pot or kettle with water.
+2. Bring the water to a boil.
+3. Let it boil for at least one minute.
+4. Let the water cool naturally without adding ice.
 
-## Heading 2
+## Filtration
 
-### Heading 3
+Filtration is another common method used to purify water. It involves passing water through a device that removes impurities physically, chemically, or biologically.
 
-#### Heading 4
+## Chemical Disinfection
 
-##### Heading 5
+Chemical disinfection involves using chemicals such as chlorine or iodine to kill bacteria and viruses in water.
 
-###### Heading 6
+## Solar Disinfection
+
+Solar disinfection uses sunlight to purify water. Fill a transparent bottle with water and leave it in direct sunlight for at least six hours.
+
+## Conclusion
+
+Access to safe drinking water is crucial for maintaining good health. By understanding the sources of contamination and methods of making water safe, we can protect ourselves and our communities from waterborne diseases.
+
+Remember, the method you choose depends on the quality of your source water and your personal preference. Always ensure that your drinking water is safe and clean!
+
+_Stay hydrated, stay healthy!_
