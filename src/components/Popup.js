@@ -30,7 +30,7 @@ class Popup extends Component {
     return (
       <Fragment>
         <div className="taCenter">
-          <h3> Revolutionizing Water Management Across Sectors</h3>
+          <h3> Simple Popup Example</h3>
           <div
             className="Button"
             onClick={this.togglePopup.bind(this)}
@@ -39,7 +39,7 @@ class Popup extends Component {
             aria-label="Toggle Popup"
             role="button"
           >
-            Waters Without Frontiers
+            Click To Launch Popup
           </div>
         </div>
         {this.state.showPopup ? (

@@ -5,11 +5,10 @@ import './cms-utils'
 import { HomePageTemplate } from '../templates/HomePage'
 import { ComponentsPageTemplate } from '../templates/ComponentsPage'
 import { ContactPageTemplate } from '../templates/ContactPage'
-import { AboutPageTemplate } from '../templates/AboutPage'
+import { DefaultPageTemplate } from '../templates/DefaultPage'
 import { BlogIndexTemplate } from '../templates/BlogIndex'
 import { SinglePostTemplate } from '../templates/SinglePost'
 import uploadcare from 'netlify-cms-media-library-uploadcare'
-import { AboutPageTemplate } from '../templates/AboutPage'
 
 const config = {
   media_library: {
@@ -43,7 +42,7 @@ CMS.registerPreviewTemplate('contact-page', ({ entry }) => (
   <ContactPageTemplate {...entry.toJS().data} />
 ))
 CMS.registerPreviewTemplate('infoPages', ({ entry }) => (
-  <AboutPageTemplatePageTemplate {...entry.toJS().data} />
+  <DefaultPageTemplate {...entry.toJS().data} />
 ))
 CMS.registerPreviewTemplate('blog-page', ({ entry }) => (
   <BlogIndexTemplate {...entry.toJS().data} />

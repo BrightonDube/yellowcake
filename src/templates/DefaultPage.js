@@ -7,8 +7,13 @@ import Layout from '../components/Layout'
 import SVGIcon from '../components/SVGIcon'
 
 // Export Template for use in CMS preview
-export const AboutPageTemplate = ({ title, subtitle, featuredImage, body }) => (
-  <main className="AboutPage">
+export const DefaultPageTemplate = ({
+  title,
+  subtitle,
+  featuredImage,
+  body
+}) => (
+  <main className="DefaultPage">
     <PageHeader
       title={title}
       subtitle={subtitle}
@@ -24,18 +29,18 @@ export const AboutPageTemplate = ({ title, subtitle, featuredImage, body }) => (
   </main>
 )
 
-const AboutPage = ({ data: { page } }) => (
+const DefaultPage = ({ data: { page } }) => (
   <Layout
     meta={page.frontmatter.meta || false}
     title={page.frontmatter.title || false}
   >
-    <AboutPageTemplate {...page.frontmatter} body={page.html} />
+    <DefaultPageTemplate {...page.frontmatter} body={page.html} />
   </Layout>
 )
-export default AboutPage
+export default DefaultPage
 
 export const pageQuery = graphql`
-  query AboutPage($id: String!) {
+  query DefaultPage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
       html
