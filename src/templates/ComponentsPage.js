@@ -37,14 +37,14 @@ export const ComponentsPageTemplate = ({
 
     <section className="section">
       <div className="container">
-        <h2>Our gallery component</h2>
-        <Gallery images={gallery} />
+        <Content source={section2} />
       </div>
     </section>
 
     <section className="section">
       <div className="container">
-        <Content source={section2} />
+        <h2>Our Projects</h2>
+        <Gallery images={gallery} />
       </div>
     </section>
 
