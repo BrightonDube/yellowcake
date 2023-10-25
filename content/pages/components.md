@@ -33,7 +33,7 @@ gallery:
     image: https://ucarecdn.com/1ecdd62b-4c07-4df4-8484-fda22a6af4c8/
     title: Environmental Investigations
   - alt: land image
-    image: https://ucarecdn.com/d85d5f76-1ab7-4297-b32f-e9eff2038e61/
+    image: https://ucarecdn.com/0421b689-c898-48fc-878d-fa1df4a394fa/
     title: Land Stability Investigations
   - alt: dewatering image
     image: https://ucarecdn.com/3a5d9fd4-e6d6-4644-ab52-314df26b6a20/
