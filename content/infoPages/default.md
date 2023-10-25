@@ -1,44 +1,48 @@
 ---
 template: DefaultPage
 slug: default
-title: Default
-featuredImage: https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/
+title: About Us
+featuredImage: https://ucarecdn.com/8bfac89b-ffdf-4578-b7c1-a4797b515279/
 meta:
   description: test meta description
   title: test meta title
 ---
 
-## This is the DefaultPage template
+## Our Story
 
-Paragraphs are separated by a blank line.
+Waters Without Frontiers cc was formed in 2008 with a singular vision: to provide specialist solutions to water resource development, protection, and management. Our journey began with the understanding that water is a fundamental resource that transcends borders and impacts every aspect of life.
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+## Our Vision
 
-### Unordered lists:
+Our vision is to create a world where water resources are developed, protected, and managed sustainably. We believe in the power of innovation and technology to address the complex challenges of water conservation and management. Our solutions are designed to be effective, sustainable, and tailored to the unique needs of each community we serve.
 
-- this one
-- that one
-- the other one
+## Our Expertise
 
-### Ordered lists:
+Over the years, we have grown into a leading specialist in the field of water resource management. Our team comprises experts who bring together a wealth of knowledge and experience in various aspects of water conservation. We are dedicated to providing solutions that are not only effective but also environmentally friendly.
 
-1.  first item
-1.  second item
-1.  third item
+## Our Impact
 
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+Since our inception, we have made significant strides in promoting sustainable water practices. Our projects have had a positive impact on numerous communities, helping them improve their water management practices and ensuring their long-term sustainability.
 
-# Heading 1
+## Join Us
 
-## Heading 2
+At Waters Without Frontiers, we are always looking forward to new collaborations and partnerships. Join us in our mission to make sustainable water resource management a reality for all.
 
-### Heading 3
 
-#### Heading 4
+# Meet Our Team
 
-##### Heading 5
+**Andrew Mavurayi:** As the Principal Hydrogeologist and Owner, Andrew is the driving force behind Waters Without Frontiers. His expertise and leadership guide our mission and vision.
 
-###### Heading 6
+**Grant Theu:** Grant serves as our Senior Hydrogeologist Projects Coordinator. His strategic planning and coordination skills ensure our projects are executed effectively and efficiently.
+
+**Mokwand Ndlovu:** As a Senior Hydrogeologist and Field Coordinator, Mokwand plays a crucial role in our on-ground operations. His field expertise ensures our solutions are implemented seamlessly.
+
+**Asanda Mgudlwa:** Asanda, our Project Manager, oversees the planning, execution, and completion of our projects. Her management skills ensure our projects stay on track and meet their objectives.
+
+**Brain Chikanga:** Brain is our Hydrogeological Field Technician. His technical skills and field knowledge play a vital role in the successful implementation of our solutions.
+
+**Cynthia Dladla:** Cynthia provides essential Administration Support to our team. Her organizational skills keep our operations running smoothly.
+
+Each member of our team brings unique skills and experiences to the table, contributing to the success of Waters Without Frontiers. Together, we are committed to making a positive impact on water resource management.
+
+

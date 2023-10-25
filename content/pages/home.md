@@ -1,30 +1,16 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Waters Without Frontiers
+featuredImage: 'https://ucarecdn.com/0bdda565-e29b-41ea-90fc-6d1882025f4b/'
+subtitle: ' Bridging continents, transcending borders, and uniting humanity through the essential life-giving force of water.'
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Waters Without Frontiers is a company that delivers water solutions across the globe. They believe in a world where everyone has access to clean and safe water. Learn more about their mission and services.
+  title: Waters without Frontiers
 ---
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+Established in 2008, Waters Without Frontier stands at the forefront of water resource management. In an era where the scarcity of natural resources, especially water, could potentially lead to global conflicts, our company emphasizes the critical importance of water resource development, protection, and management.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+Our mission is not just about providing specialist solutions; it’s about safeguarding the future of Mother Earth and ensuring the well-being of all its inhabitants. We are committed to making water - an essential life-sustaining resource - accessible to everyone, everywhere.
 
-# Features
-
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+Join us in our journey as we strive to quench the world’s thirst and make water scarcity a thing of the past. Waters Without Frontiers: Pioneering global water solutions, one drop at a time. Welcome to a future where water knows no frontiers.

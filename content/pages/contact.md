@@ -1,12 +1,12 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact Page
+title: Contact Us
 featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
-phone: 0987 123 456
-email: example@example.com
+subtitle: Get in Touch with Us; We’re Here to Help You with Your Water Management Needs.
+address: '129 Freesia Drive, Country View, Midrand'
+phone: 082 600-2142 or 061 589-5614
+email: andrew.mavurayi@waterfrontiers.co.za
 locations:
   - lat: '-27.9654732'
     lng: '153.2432449'
@@ -16,12 +16,14 @@ meta:
   title: Contact Page
 ---
 
-# Example contact form
+# Connect with Waters Without Frontiers
 
-This form is setup to use Netlify's form handling:
+Whether you’re curious about our work, interested in partnering with us, or simply want to learn more about the importance of water conservation, we’d love to hear from you.
 
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
+### Our Commitment
 
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+We are committed to responding to all inquiries promptly and providing you with the information you need. Your input and feedback are invaluable to us as we strive to improve our efforts in promoting sustainable water practices.
+
+### Stay Connected
+
+Stay up-to-date with our latest news and updates by subscribing to our newsletter or following us on our social media platforms. Together, we can make a difference.
