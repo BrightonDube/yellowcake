@@ -8,6 +8,7 @@ import Accordion from '../components/Accordion'
 import BackgroundVideo from '../components/BackgroundVideo'
 import Gallery from '../components/Gallery'
 import Popup from '../components/Popup'
+import Video from '../../static/images/video.mp4'
 
 // Export Template for use in CMS preview
 export const ComponentsPageTemplate = ({
@@ -16,7 +17,6 @@ export const ComponentsPageTemplate = ({
   featuredImage,
   section1,
   section2,
-  video,
   videoPoster,
   videoTitle,
   accordion,
@@ -34,23 +34,21 @@ export const ComponentsPageTemplate = ({
         <Content source={section1} />
       </div>
     </section>
-
-    <section className="section">
-      <div className="container">
-        <h2>Our gallery component</h2>
-        <Gallery images={gallery} />
-      </div>
-    </section>
-
     <section className="section">
       <div className="container">
         <Content source={section2} />
       </div>
     </section>
+    <section className="section">
+      <div className="container">
+        <h2>Projects Done</h2>
+        <Gallery images={gallery} />
+      </div>
+    </section>
 
     <section className="BackgroundVideo-section section">
       <BackgroundVideo poster={videoPoster} videoTitle={videoTitle}>
-        {video && <source src={video} type="video/mp4" />}
+        {Video && <source src={Video} type="video/mp4" />}
       </BackgroundVideo>
     </section>
 
@@ -94,7 +92,6 @@ export const pageQuery = graphql`
         featuredImage
         section1
         section2
-        video
         videoPoster
         videoTitle
         accordion {
