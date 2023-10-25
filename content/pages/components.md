@@ -14,7 +14,7 @@ section2: >-
 
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/CDqtY-nuJpg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-video: https://www.youtube.com/watch?v=CDqtY-nuJpg
+video: '../../static/save water.mp4'
 videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
 videoTitle: Waters Without Frontiers, Pioneering the Future of Water Management!
 accordion:
