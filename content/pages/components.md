@@ -14,7 +14,7 @@ section2: >-
 
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/CDqtY-nuJpg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-video: https://www.youtube.com/watch?v=CDqtY-nuJpg
+video: '/static/images/video.mp4'
 videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
 videoTitle: Waters Without Frontiers, Pioneering the Future of Water Management!
 accordion:
@@ -29,12 +29,12 @@ accordion:
   - description: Land stability is a critical factor in safe land use, especially in areas where water may pose a risk. Our team conducts comprehensive investigations into soil properties and geological hazards. The insights we gain from these investigations enable us to evaluate the risk of landslides and other hazards, ensuring the safety of communities and the environment.
     title: Land Stability Investigations
 gallery:
-  - alt: yellow rope image
-    image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
-    title: Yellow Rope
-  - alt: umbrellas
+  - alt: mine dewatering image
+    image: https://ucarecdn.com/3a5d9fd4-e6d6-4644-ab52-314df26b6a20/
+    title: Mine Dewatering
+  - alt: Water supply image
     image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
-    title: a bunch of umbrellas
+    title: Water Supply
   - alt: yellow ice cream
     image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
     title: Yellow Ice Cream
