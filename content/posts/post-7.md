@@ -13,7 +13,7 @@ meta:
   canonicalLink: ''
   description: test meta description
   noindex: false
-  title: test meta title
+  title: Making water safer
 ---
 
 ![Test Image](https://ucarecdn.com/f54298d5-fc08-41d3-971a-99b24473b2e1/)
