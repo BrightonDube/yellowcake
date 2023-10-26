@@ -5,9 +5,24 @@ title: Services
 featuredImage: https://ucarecdn.com/4c552e6a-f238-4d50-b2ca-dfc8a0758ad9/
 subtitle: Waters Without Frontiers offers these services.
 section1: >-
-  ## Revolutionizing Water Management Across Sectors
+  ## Waters Without Frontiers: Your Trusted Partner for Comprehensive Water Resource Management
 
-  Waters Without Frontiers is a company that provides water management consulting services to various clients and sectors, such as municipalities, industries, mines, and agriculture. The company showcases some of its innovative projects that aim to improve water efficiency, quality, and sustainability. These projects include developing new water sources, implementing water treatment processes, assessing environmental impact, designing dewatering systems, simulating groundwater flow, and evaluating land stability.
+  At Waters Without Frontiers, we provide a wide range of services to help our clients manage their water resources sustainably and effectively. Our services include:
+
+  - **Land Stability and Subsidence Studies in Dolomitic Environments:** We help our clients to identify and assess the risks of land instability and subsidence in dolomitic environments, and to develop mitigation strategies.
+
+  - **Emergency Water Supply Services:** We provide emergency water supply services to communities that have been affected by droughts, floods, or other disasters.
+
+  - **Groundwater Modelling:** We develop groundwater models to help our clients understand the dynamics of their groundwater resources and to make informed management decisions.
+
+  - **Groundwater Dewatering:** We provide groundwater dewatering services for mining and civil engineering projects.
+
+  - **Geohydrological Impact Assessment**: We conduct geohydrological impact assessments to assess the potential impacts of development projects on groundwater resources.
+
+  - **Rural Sanitation / Groundwater Protocols:** We develop and implement rural sanitation and groundwater protocols to help protect public health and groundwater quality.
+
+  - **Groundwater Supply:** We provide groundwater supply services to communities and businesses.
+  Whether you are a government agency, a mining company, or a rural community, Waters Without Frontiers can help you to manage your water resources sustainably and effectively. Contact us today to learn more about our services.
 
 accordion:
   - description: At Waters Without Frontiers, we believe that access to clean and safe water is a fundamental right. Our team works tirelessly to identify new water sources and improve existing supply systems. We employ cutting-edge technology and innovative strategies to ensure the water we provide meets the highest standards of safety and cleanliness.
@@ -30,6 +45,12 @@ gallery:
   - alt: dewatering image
     image: https://ucarecdn.com/3a5d9fd4-e6d6-4644-ab52-314df26b6a20/
     title: Mine Dewatering
+  - alt: land image
+    image: https://ucarecdn.com/490a1d77-b77e-4c2f-9ba1-e82bb6d80a1a/
+    title: Water Supply
+  - alt: dewatering image
+    image: https://ucarecdn.com/f5694bbf-2576-40a0-a312-70ce9db79776/
+    title: Groundwater management
 meta:
   description: This is a meta description.
   title: Services Page
