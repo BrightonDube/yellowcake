@@ -1,9 +1,9 @@
 ---
 template: ServicesPage
 slug: services
-title: Services
+title: Services and Products
 featuredImage: https://ucarecdn.com/4c552e6a-f238-4d50-b2ca-dfc8a0758ad9/
-subtitle: Waters Without Frontiers offers these services.
+subtitle: Waters Without Frontiers has these services and products available
 section1: >-
   ## Waters Without Frontiers: Your Trusted Partner for Comprehensive Water Resource Management
 
