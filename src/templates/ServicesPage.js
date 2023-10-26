@@ -5,9 +5,7 @@ import PageHeader from '../components/PageHeader'
 import Content from '../components/Content.js'
 import Layout from '../components/Layout.js'
 import Accordion from '../components/Accordion'
-import BackgroundVideo from '../components/BackgroundVideo'
 import Gallery from '../components/Gallery'
-import Video from '../../static/save water.mp4'
 
 // Export Template for use in CMS preview
 export const ServicesPageTemplate = ({
@@ -15,10 +13,6 @@ export const ServicesPageTemplate = ({
   subtitle,
   featuredImage,
   section1,
-  section2,
-  video,
-  videoPoster,
-  videoTitle,
   accordion,
   body,
   gallery
@@ -37,21 +31,9 @@ export const ServicesPageTemplate = ({
 
     <section className="section">
       <div className="container">
-        <Content source={section2} />
-      </div>
-    </section>
-
-    <section className="section">
-      <div className="container">
-        <h2>Our Projects</h2>
+        <h2>Our Services</h2>
         <Gallery images={gallery} />
       </div>
-    </section>
-
-    <section className="BackgroundVideo-section section">
-      <BackgroundVideo poster={videoPoster} videoTitle={videoTitle}>
-        {Video && <source src={Video} type="video/mp4" />}
-      </BackgroundVideo>
     </section>
 
     <section className="section">
@@ -86,9 +68,6 @@ export const pageQuery = graphql`
         featuredImage
         section1
         section2
-        video
-        videoPoster
-        videoTitle
         accordion {
           title
           description
