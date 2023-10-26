@@ -9,14 +9,6 @@ section1: >-
 
   Waters Without Frontiers is a company that provides water management consulting services to various clients and sectors, such as municipalities, industries, mines, and agriculture. The company showcases some of its innovative projects that aim to improve water efficiency, quality, and sustainability. These projects include developing new water sources, implementing water treatment processes, assessing environmental impact, designing dewatering systems, simulating groundwater flow, and evaluating land stability.
 
-section2: >-
-  ## Save water, save the planet
-
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/CDqtY-nuJpg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-video: '../../static/save water.mp4'
-videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
-videoTitle: Waters Without Frontiers, Pioneering the Future of Water Management!
 accordion:
   - description: At Waters Without Frontiers, we believe that access to clean and safe water is a fundamental right. Our team works tirelessly to identify new water sources and improve existing supply systems. We employ cutting-edge technology and innovative strategies to ensure the water we provide meets the highest standards of safety and cleanliness.
     title: Water Supply

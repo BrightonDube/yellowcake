@@ -4,7 +4,6 @@ import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content.js'
 import Layout from '../components/Layout.js'
-import Accordion from '../components/Accordion'
 import BackgroundVideo from '../components/BackgroundVideo'
 import Gallery from '../components/Gallery'
 import Popup from '../components/Popup'
@@ -17,10 +16,8 @@ export const ComponentsPageTemplate = ({
   featuredImage,
   section1,
   section2,
-  video,
   videoPoster,
   videoTitle,
-  accordion,
   body,
   gallery
 }) => (
@@ -57,12 +54,6 @@ export const ComponentsPageTemplate = ({
 
     <section className="section">
       <div className="container">
-        <Accordion items={accordion} />
-      </div>
-    </section>
-
-    <section className="section">
-      <div className="container">
         <Popup>
           <Content source={section1} />
         </Popup>
@@ -95,13 +86,8 @@ export const pageQuery = graphql`
         featuredImage
         section1
         section2
-        video
         videoPoster
         videoTitle
-        accordion {
-          title
-          description
-        }
       }
     }
   }

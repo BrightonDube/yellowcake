@@ -17,28 +17,21 @@ section2: >-
 video: '../../static/save water.mp4'
 videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
 videoTitle: Waters Without Frontiers, Pioneering the Future of Water Management!
-accordion:
-  - description: At Waters Without Frontiers, we believe that access to clean and safe water is a fundamental right. Our team works tirelessly to identify new water sources and improve existing supply systems. We employ cutting-edge technology and innovative strategies to ensure the water we provide meets the highest standards of safety and cleanliness.
-    title: Water Supply
-  - description: Our commitment to environmental stewardship is at the heart of what we do. We conduct thorough investigations into the health of aquatic ecosystems, monitor changes in water quality, and study the effects of pollution. Our findings guide our efforts to mitigate environmental impact and promote sustainable practices.
-    title: Environmental Investigations
-  - description: Mining operations often encounter challenges with groundwater. At Waters Without Frontiers, we specialize in managing these challenges. Our team designs and implements effective dewatering systems to control groundwater, ensuring the safety and efficiency of mining activities.
-    title: Mine Dewatering
-  - description: Groundwater management is a complex task that requires precise prediction and monitoring. We use advanced mathematical models to simulate groundwater flow and distribution. These models help us understand aquifer systems, manage water resources effectively, and devise solutions for groundwater contamination problems.
-    title: Ground water Modelling
-  - description: Land stability is a critical factor in safe land use, especially in areas where water may pose a risk. Our team conducts comprehensive investigations into soil properties and geological hazards. The insights we gain from these investigations enable us to evaluate the risk of landslides and other hazards, ensuring the safety of communities and the environment.
-    title: Land Stability Investigations
+
 gallery:
-  - alt: Environmental Investigations
-    image: https://ucarecdn.com/1ecdd62b-4c07-4df4-8484-fda22a6af4c8/
-    title: Environmental Investigations
-  - alt: land image
-    image: https://ucarecdn.com/0421b689-c898-48fc-878d-fa1df4a394fa/
-    title: Land Stability Investigations
-  - alt: dewatering image
-    image: https://ucarecdn.com/3a5d9fd4-e6d6-4644-ab52-314df26b6a20/
-    title: Mine Dewatering
+  - alt: pumping test image
+    image: https://ucarecdn.com/490a1d77-b77e-4c2f-9ba1-e82bb6d80a1a/
+    title: Pumping test at Greytown
+  - alt: solar pump image
+    image: https://ucarecdn.com/4a7977bf-2c9e-4e9f-9b17-71c7035c2817/
+    title: Successfull Solar Pump Installation
+  - alt: community queuing for water image
+    image: https://ucarecdn.com/84a756af-1c17-41ed-830e-ef8114893b10/
+    title: Pump testing near Mtubatuba
+  - alt: data processing image
+    image: https://ucarecdn.com/b70e67a3-e294-468d-88e3-7be6fc6898a3/
+    title: Data Processing in the field
 meta:
-  description: This is a meta description.
-  title: Components Page
+  description: projects done by waters without frontiers
+  title: services Page
 ---
