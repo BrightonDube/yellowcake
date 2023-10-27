@@ -23,6 +23,18 @@ section1: >-
 
   - **Groundwater Supply:** We provide groundwater supply services to communities and businesses.
   Whether you are a government agency, a mining company, or a rural community, Waters Without Frontiers can help you to manage your water resources sustainably and effectively. Contact us today to learn more about our services.
+section2: >-
+  Semi-precious rock crystals, a diverse and beautiful group of minerals, have been utilized for centuries in jewelry, art, and decoration. These crystals span a broad spectrum of colors, from the clear and sparkling quartz to the deep green jade and the fiery red garnet. Each crystal possesses its own unique properties and meanings, making them a favored choice among individuals of all ages and backgrounds.
+
+  If you’re in search of a striking piece of jewelry to enhance your collection or a distinctive gift for a loved one, semi-precious rock crystals are bound to delight. Here are just a few of the numerous advantages of owning these exquisite stones:
+
+  - **Beauty and Elegance:** Semi-precious rock crystals are renowned for their natural beauty and elegance. They can be adorned as jewelry, showcased in your home, or incorporated into creative projects to infuse a touch of luxury and sophistication.
+
+  - **Durability:** Semi-precious rock crystals are remarkably durable and can endure for generations with appropriate care. This makes them an excellent investment for anyone seeking a piece of jewelry or home decor that will withstand the test of time.
+
+  - **Healing Properties:** Many individuals believe that semi-precious rock crystals possess healing properties. Some crystals are thought to foster emotional well-being, while others are believed to offer physical healing benefits. Regardless of whether you subscribe to the healing power of crystals, there’s no denying their potential to positively influence your overall well-being.
+
+  - **Uniqueness:** Each semi-precious rock crystal is unique in its own right. No two crystals are exactly alike, rendering them a special and personal gift.
 
 accordion:
   - description: At Waters Without Frontiers, we believe that access to clean and safe water is a fundamental right. Our team works tirelessly to identify new water sources and improve existing supply systems. We employ cutting-edge technology and innovative strategies to ensure the water we provide meets the highest standards of safety and cleanliness.
@@ -51,6 +63,10 @@ gallery:
   - alt: dewatering image
     image: https://ucarecdn.com/f5694bbf-2576-40a0-a312-70ce9db79776/
     title: Groundwater management
+gallery2:
+  - alt: Environmental Investigations
+    image: https://ucarecdn.com/1ecdd62b-4c07-4df4-8484-fda22a6af4c8/
+    title: Environmental Investigations
 meta:
   description: This is a meta description.
   title: Services Page
