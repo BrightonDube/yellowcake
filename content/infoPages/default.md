@@ -28,21 +28,12 @@ Since our inception, we have made significant strides in promoting sustainable w
 
 At Waters Without Frontiers, we are always looking forward to new collaborations and partnerships. Join us in our mission to make sustainable water resource management a reality for all.
 
-
 # Meet Our Team
 
 **Andrew Mavurayi:** As the Principal Hydrogeologist and Owner, Andrew is the driving force behind Waters Without Frontiers. His expertise and leadership guide our mission and vision.
 
-**Grant Theu:** Grant serves as our Senior Hydrogeologist Projects Coordinator. His strategic planning and coordination skills ensure our projects are executed effectively and efficiently.
-
 **Mokwand Ndlovu:** As a Senior Hydrogeologist and Field Coordinator, Mokwand plays a crucial role in our on-ground operations. His field expertise ensures our solutions are implemented seamlessly.
-
-**Asanda Mgudlwa:** Asanda, our Project Manager, oversees the planning, execution, and completion of our projects. Her management skills ensure our projects stay on track and meet their objectives.
 
 **Brain Chikanga:** Brain is our Hydrogeological Field Technician. His technical skills and field knowledge play a vital role in the successful implementation of our solutions.
 
-**Cynthia Dladla:** Cynthia provides essential Administration Support to our team. Her organizational skills keep our operations running smoothly.
-
 Each member of our team brings unique skills and experiences to the table, contributing to the success of Waters Without Frontiers. Together, we are committed to making a positive impact on water resource management.
-
-
