@@ -64,6 +64,24 @@ const images = [
       'https://ucarecdn.com/cd9ed9f1-f3f5-44dc-9316-84f25672c4be/Rock9.jpg',
     thumbnail:
       'https://ucarecdn.com/cd9ed9f1-f3f5-44dc-9316-84f25672c4be/Rock9.jpg'
+  },
+  {
+    original:
+      'https://ucarecdn.com/cd9ed9f1-f3f5-44dc-9316-84f25672c4be/Rock9.jpg',
+    thumbnail:
+      'https://ucarecdn.com/cd9ed9f1-f3f5-44dc-9316-84f25672c4be/Rock9.jpg'
+  },
+  {
+    original:
+      'https://ucarecdn.com/cd9ed9f1-f3f5-44dc-9316-84f25672c4be/Rock9.jpg',
+    thumbnail:
+      'https://ucarecdn.com/cd9ed9f1-f3f5-44dc-9316-84f25672c4be/Rock9.jpg'
+  },
+  {
+    original:
+      'https://ucarecdn.com/cd9ed9f1-f3f5-44dc-9316-84f25672c4be/Rock9.jpg',
+    thumbnail:
+      'https://ucarecdn.com/cd9ed9f1-f3f5-44dc-9316-84f25672c4be/Rock9.jpg'
   }
 ]
 
@@ -87,6 +105,12 @@ export const ServicesPageTemplate = ({
     <section className="section">
       <div className="container">
         <Content source={section1} />
+      </div>
+    </section>
+
+    <section className="section">
+      <div className="container">
+        <Content source={section2} />
       </div>
     </section>
 

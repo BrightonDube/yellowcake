@@ -36,6 +36,95 @@ section2: >-
 
   - **Uniqueness:** Each semi-precious rock crystal is unique in its own right. No two crystals are exactly alike, rendering them a special and personal gift.
 
+section3: >-
+  # GROUNDWATER SUPPLY 
+
+  Groundwater contributes more than 80% of potable water supply to rural communities in Southern Africa. Waters Without Frontiers has extensive experience in the identification and development of groundwater resources for water supplies. The company’s expertise includes among others, the following:
+
+  ## Remote sensing for borehole siting
+
+  The company uses latest satellite images and aerial photographs to identify lineaments associated with geological structure that influence groundwater occurrence and movement. We also use drone technology to carry out quick site reconnaissance to zoom in on interesting features on the ground.
+
+  ## Geophysical survey
+
+  The company employs three complimentary geophysical survey techniques, consisting of electromagnetic (EM) and magnetic traverses, and electro-seismic soundings.
+  Electromagnetic traverses are conducted to locate conductive saturated fracture zones and faults. A PCFDEM-24Bit frequency domain electromagnetic instrument was used. Boasting eight frequencies, the instrument takes eight measurements at each station, with each measurement corresponding to a different frequency. Each frequency in turn, corresponds to a different depth of ground penetration. The higher the frequency, the lower the depth of ground penetration and vice versa. The instrument can achieve ground penetration depth in excess of 300 metres. The instrument allows for the measurement of ground electrical conductivity variations in both the horizontal and vertical directions; thus enabling the production of two dimensional vertical conductivity sections or pseudo-sections. 
+  Magnetic traverses  are  conducted to locate contacts between dolerite intrusion and the host rocks. These contacts are characterised by significant fracturing as explained earlier.  Magnetic traverses were conducted along the same lines and station spacing as EM traverses.
+
+  Electro-Seismic Survey theoretically can pick the presence of a water table. The technique is based on the principle that when a seismic wave generated at the surface reaches the water table in permeable rock, the water is forced to move relative to its rock surroundings as the pulse passes. This motion creates a small electrical pulse that is measurable at the surface by pairs of electrodes close to the shot point. The technique is still at its infancy in South Africa; hence is being explored. Water strikes are indicated by spikes on seismic traces.
+
+  ## Groundwater development
+  -	Borehole drilling supervision and construction design,
+  -	Pumping test design and supervision,
+  -	Determination of long-term sustainable exploitation of groundwater,
+  -	Groundwater quality assessment,
+  -	Spring protection design and construction supervision,  
+  -	Facilitation of groundwater use licence application, 
+  -	Simulation of aquifer response to different exploitation scenarios using     groundwater-modelling software.
+
+  # ENVIRONMENTAL ASSESSMENTS
+  South Africa has enacted laws requires that those who cause negative impacts on the environment own up and remedy the impacts. Groundwater resources are particularly vulnerable to impacts of industrial, mining and farming activities. The impacts relate to degradation of water quality due to pollution, and depletion of groundwater resources due to over pumping and mine dewatering.  Waters Without Frontiers’ expertise include: 
+  -	Assessment of the nature and extent of groundwater contamination,
+  -	Assessment of Acid Mine Drainage (AMD), 
+  -	Design of groundwater monitoring programme,
+  -	Groundwater sampling and geohydro-chemical evaluation according to established standards and guidelines. The company has portable battery operated water sampling pumps 
+  -	Delineation of contamination plumes,
+  -	Delineation of contaminant capture zones,
+  -	Groundwater modelling to simulate potential impacts on groundwater and assess effectiveness of proposed remedial action.
+  -	Design and implementation of remediation measures,-
+  -NVIRONMENTAL AUTHORISATIONS-
+  -Waters Without Frontiers provides geohydrological input into environmental authorisations such as:
+  -	Environmental Impact Assessments (EIA),
+  -	Water use licence applications,
+  -	Permit applications to establish and operate waste disposal sites,
+  -	Environmental Management Programme Reports (EMPR),
+  -	Environmental Auditing  for compliance with the provisions of the Water Act,
+  -	Environmental Liability Assessment,
+  -	Environmental Risk Assessment,
+  -	Mining Feasibility Studies and mining right application.-
+  -ROUNDWATER DEWATERING
+  -ewatering is essential for safe and efficient operations mines and excavated construction sites. These operations can be flooded, making them dangerous to work in and preventing access to valuable minerals in the case of mines. Dewatering also helps to stabilise the ground and prevent cave-ins. Waters Without Frontiers provides the following expertise:
+  -	Identification and delineation of geological structures that channel groundwater to the site through the use of geophysical surveys.
+  -	Evaluation and estimation of quantities of groundwater to be removed from the system,
+  -	Design and layout of dewatering boreholes,
+  -	Recommendation of discharge rates for dewatering boreholes,
+  -	Assessment of potential impact of dewatering on groundwater resources in neighbouring areas,
+  -	Simulation of dewatering using groundwater-modelling, and evaluation of its effectiveness.
+  -	Recommendation of measures to mitigate inflows into excavations.
+
+  # GROUNDWATER MODELLING
+  Groundwater modelling is used across the spectrum of hydrogeology from predicting the impact of groundwater abstraction for domestic use to impact of dewatering in mines and construction sites, to the migration of contaminants.
+
+  The company uses a host of groundwater modelling codes that include Visual mudflow Flex, PWIN and Fee Flow
+   ## The activities include:
+  -	Development of a geohydrological conceptual model,
+  -	Assignment of hydraulic parameters to the geohydrological conceptual model,
+  -	Model calibration to ensure the model replicates reality,
+  -	Simulation of groundwater responses to stresses 
+  -	Evaluation of the effectiveness of remediation systems,
+  -	Delineating well capture zones for wellhead protection,
+  -	Simulating natural attenuation of contaminated groundwater,
+  -	Determining exposure pathways for risk assessment.
+
+  # LAND STABILITY AND SUBSIDENCE STUDIES IN DOLOMITIC ENVIRONMENTS
+  Structures erected on carbonate rocks such as dolomite and limestone are vulnerable to destruction due to land subsidence and sinkhole formation. Waters Without Frontiers has the expertise to conduct a risk assessment on the suitability of land for housing and infrastructural development. Associated activities include:
+
+  -	Gravity geophysical survey to locate cavities,
+  -	Creation of gravity contours to zoom in on potential cavities,
+  -	Drilling to verify the cavities,
+  -	Recommendation of remedial measures
+
+  # EMERGENCY WATER SUPPLY SERVICES
+  One of the most important needs for communities hit by disasters, whether natural or man-made, is the provision of emergency safe and clean drinking water immediately after the disaster. Waters Without Frontiers has capacity to:  
+  -	Assess water requirements of communities hit by the disaster,
+  -	Identify and mobilise emergency water supply resources to alleviate human suffering. Such resources include:
+
+  - Trailer mounted mobile water purification plants,
+  -	Lifesaver bottles that have a filter which can make the most revolting water
+   drinkable in seconds, enabling the use of water directly from the river.
+  -	Anti-bacteria tablets.
+  -	Tanker trucks to affected communities
+
 accordion:
   - description: At Waters Without Frontiers, we believe that access to clean and safe water is a fundamental right. Our team works tirelessly to identify new water sources and improve existing supply systems. We employ cutting-edge technology and innovative strategies to ensure the water we provide meets the highest standards of safety and cleanliness.
     title: Water Supply
