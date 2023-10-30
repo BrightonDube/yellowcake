@@ -5,6 +5,7 @@ import PageHeader from '../components/PageHeader'
 import Content from '../components/Content.js'
 import Layout from '../components/Layout.js'
 import Accordion from '../components/Accordion'
+import SecNav from '../components/SecNav'
 
 // Export Template for use in CMS preview
 export const GroundwaterModellingTemplate = ({
@@ -12,11 +13,8 @@ export const GroundwaterModellingTemplate = ({
   subtitle,
   featuredImage,
   section1,
-  section2,
-  section3,
-  accordion,
-  body,
-  gallery
+  accordion,  
+  body, 
 }) => (
   <main>
     <PageHeader
@@ -26,28 +24,10 @@ export const GroundwaterModellingTemplate = ({
     />
     <section className="section">
       <div className="container">
+      <SecNav />
         <Content source={section1} />
       </div>
-    </section>
-
-    <section className="section">
-      <div className="container">
-        <Content source={section3} />
-      </div>
-    </section>
-
-    <section className="section">
-      <div className="container">
-        <h2>Our WaterModelling</h2>
-      </div>
-    </section>
-    <section className="section">
-      <div className="container">
-        <h1>Exquisite Rock Crystals Available for Purchase</h1>
-        <Content source={section2} />
-      </div>
-    </section>
-
+    </section>  
     <section className="section">
       <div className="container">
         <Accordion items={accordion} />
@@ -82,13 +62,10 @@ export const pageQuery = graphql`
         template
         subtitle
         featuredImage
-        section1
-        section2
-        section3
+        section1      
         accordion {
           title
           description
-          image
         }
       }
     }

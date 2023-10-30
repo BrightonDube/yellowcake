@@ -7,7 +7,7 @@ import Layout from '../components/Layout.js'
 import Accordion from '../components/Accordion'
 import Gallery from '../components/Gallery'
 import ImageGallery from 'react-image-gallery'
-import Services from '../components/Services'
+import SecNav from '../components/SecNav'
 
 const images = [
   {
@@ -106,7 +106,6 @@ export const ServicesPageTemplate = ({
   featuredImage,
   section1,
   section2,
-  section3,
   accordion,
   body,
   gallery
@@ -117,16 +116,11 @@ export const ServicesPageTemplate = ({
       subtitle={subtitle}
       backgroundImage={featuredImage}
     />
-    <section className="section">
-      <div className="container">
-        <Content source={section1} />
-      </div>
-    </section>
 
     <section className="section">
       <div className="container">
-        <Services />
-        <Content source={section3} />
+        <SecNav />
+        <Content source={section1} />
       </div>
     </section>
 
@@ -204,7 +198,7 @@ export const pageQuery = graphql`
         accordion {
           title
           description
-          image
+          to
         }
       }
     }

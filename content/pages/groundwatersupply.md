@@ -5,60 +5,80 @@ title: GroundwaterSupply
 featuredImage: https://ucarecdn.com/4c552e6a-f238-4d50-b2ca-dfc8a0758ad9/
 subtitle: Waters Without Frontiers has these services and products available
 section1: >-
-  <h3>Environmental Assessments</h3>
-       <p>
-         South Africa has enacted laws requires that those who cause negative
-         impacts on the environment own up and remedy the impacts. Groundwater
-         resources are particularly vulnerable to impacts of industrial, mining
-         and farming activities. The impacts relate to degradation of water
-         quality due to pollution, and depletion of groundwater resources due to
-         over pumping and mine dewatering. Waters Without Frontiers’ expertise
-         include:{' '}
-       </p>
-       <ul>
-         <li>
-           {' '}
-           Assessment of the nature and extent of groundwater contamination.
-         </li>
-         <li>Assessment of Acid Mine Drainage (AMD).</li>
-         <li>Design of groundwater monitoring programme.</li>
-         <li>
-           Groundwater sampling and geohydro-chemical evaluation according to
-           established standards and guidelines. The company has portable battery
-           operated water sampling pumps
-         </li>
-         <li>Delineation of contamination plumes,</li>
-         <li>Delineation of contaminant capture zones,</li>
-         <li>
-section3: >-
-  ### *LAND STABILITY AND SUBSIDENCE STUDIES IN DOLOMITIC ENVIRONMENTS*
-
-  Structures erected on carbonate rocks such as dolomite and limestone are vulnerable to destruction due to land subsidence and sinkhole formation. Waters Without Frontiers has the expertise to conduct a risk assessment on the suitability of land for housing and infrastructural development. Associated activities include:
-
-  -	Gravity geophysical survey to locate cavities,
-
-  -	Creation of gravity contours to zoom in on potential cavities,
-
-  -	Drilling to verify the cavities,
-
-  -	Recommendation of remedial measures
-
-  ### Emergency Water Supply
-
-  One of the most important needs for communities hit by disasters, whether natural or man-made, is the provision of emergency safe and clean drinking water immediately after the disaster. Waters Without Frontiers has capacity to:  
-
-  -	Assess water requirements of communities hit by the disaster,
-
-  -	Identify and mobilise emergency water supply resources to alleviate human suffering. Such resources include:
-
-  - Trailer mounted mobile water purification plants,
-
-  -	Lifesaver bottles that have a filter which can make the most revolting water
-   drinkable in seconds, enabling the use of water directly from the river.
-
-  -	Anti-bacteria tablets.
-
-  -	Tanker trucks to affected communities
+  <h1>Groundwater Supply</h1>
+      <p>
+        Groundwater contributes more than 80% of potable water supply to rural
+        communities in Southern Africa. Waters Without Frontiers has extensive
+        experience in the identification and development of groundwater
+        resources for water supplies. The company’s expertise includes among
+        others, the following:
+      </p>
+      <h3>Remote Sensing for borehole siting</h3>
+      <p>
+        The company uses latest satellite images and aerial photographs to
+        identify lineaments associated with geological structure that influence
+        groundwater occurrence and movement. We also use drone technology to
+        carry out quick site reconnaissance to zoom in on interesting features
+        on the ground.
+      </p>
+      <h3>Geophysical survey</h3>
+      <p>
+        The company employs three complimentary geophysical survey techniques,
+        consisting of electromagnetic (EM) and magnetic traverses, and
+        electro-seismic soundings.
+      </p>
+      <p>
+        <span className="bold_italic">Electromagnetic traverses</span> are
+        conducted to locate conductive saturated fracture zones and faults. A
+        PCFDEM-24Bit frequency domain electromagnetic instrument was used.
+        Boasting eight frequencies, the instrument takes eight measurements at
+        each station, with each measurement corresponding to a different
+        frequency. Each frequency in turn, corresponds to a different depth of
+        ground penetration. The higher the frequency, the lower the depth of
+        ground penetration and vice versa. The instrument can achieve ground
+        penetration depth in excess of 300 metres. The instrument allows for the
+        measurement of ground electrical conductivity variations in both the
+        horizontal and vertical directions; thus enabling the production of two
+        dimensional vertical conductivity sections or pseudo-sections.{' '}
+      </p>
+      <p>
+        <span className="bold_italic">Magnetic traverses</span> are conducted to
+        locate contacts between dolerite intrusion and the host rocks. These
+        contacts are characterised by significant fracturing as explained
+        earlier. Magnetic traverses were conducted along the same lines and
+        station spacing as EM traverses.{' '}
+      </p>
+      <p>
+        <span className="bold_italic">Electro-Seismic Survey</span>{' '}
+        theoretically can pick the presence of a water table. The technique is
+        based on the principle that when a seismic wave generated at the surface
+        reaches the water table in permeable rock, the water is forced to move
+        relative to its rock surroundings as the pulse passes. This motion
+        creates a small electrical pulse that is measurable at the surface by
+        pairs of electrodes close to the shot point. The technique is still at
+        its infancy in South Africa; hence is being explored. Water strikes are
+        indicated by spikes on seismic traces.
+      </p>
+      <img
+        src="https://ucarecdn.com/ebee702a-c894-437b-ba9d-3789efaf9a80/water2.png"
+        alt="Sysmeic Survey"
+      />
+      <figcaption>PCFDEM 24 Bit Electromagnetic survey equipment</figcaption>
+      <h3>Ground Water Development</h3>
+      <ul>
+        <li>Borehole drilling supervision and construction design,</li>
+        <li>Pumping test design and supervision,</li>
+        <li>
+          Determination of long-term sustainable exploitation of groundwater,
+        </li>
+        <li>Groundwater quality assessment,</li>
+        <li>Spring protection design and construction supervision, </li>
+        <li>Facilitation of groundwater use licence application, </li>
+        <li>
+          Simulation of aquifer response to different exploitation scenarios
+          using groundwater-modelling software.
+        </li>
+      </ul>
 
 accordion:
   - description: At Waters Without Frontiers, we believe that access to clean and safe water is a fundamental right. Our team works tirelessly to identify new water sources and improve existing supply systems. We employ cutting-edge technology and innovative strategies to ensure the water we provide meets the highest standards of safety and cleanliness.
