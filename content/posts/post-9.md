@@ -16,7 +16,7 @@ meta:
 ---
 **City of Tshwane, Gauteng, South Africa** - In a groundbreaking development, scientists and engineers have unveiled new hydrogeological strategies that are set to revolutionize water management in the mining industry, particularly in the area of mine dewatering.
 
-![Test Image](https://ucarecdn.com/3a5d9fd4-e6d6-4644-ab52-314df26b6a20/)
+![Alt image](https://ucarecdn.com/3a5d9fd4-e6d6-4644-ab52-314df26b6a20/)
 
 **City of Tshwane, Gauteng, South Africa** - In a groundbreaking development, scientists and engineers have unveiled new hydrogeological strategies that are set to revolutionize water management in the mining industry, particularly in the area of mine dewatering.
 
