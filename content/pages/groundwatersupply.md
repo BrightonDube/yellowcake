@@ -39,17 +39,17 @@ section1: >-
         penetration depth in excess of 300 metres. The instrument allows for the
         measurement of ground electrical conductivity variations in both the
         horizontal and vertical directions; thus enabling the production of two
-        dimensional vertical conductivity sections or pseudo-sections.{' '}
+        dimensional vertical conductivity sections or pseudo-sections.
       </p>
       <p>
         <span className="bold_italic">Magnetic traverses</span> are conducted to
         locate contacts between dolerite intrusion and the host rocks. These
         contacts are characterised by significant fracturing as explained
         earlier. Magnetic traverses were conducted along the same lines and
-        station spacing as EM traverses.{' '}
+        station spacing as EM traverses.
       </p>
       <p>
-        <span className="bold_italic">Electro-Seismic Survey</span>{' '}
+        <span className="bold_italic">Electro-Seismic Survey</span>
         theoretically can pick the presence of a water table. The technique is
         based on the principle that when a seismic wave generated at the surface
         reaches the water table in permeable rock, the water is forced to move

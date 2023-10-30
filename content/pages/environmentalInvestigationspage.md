@@ -14,7 +14,7 @@ section1: >-
         and farming activities. The impacts relate to degradation of water
         quality due to pollution, and depletion of groundwater resources due to
         over pumping and mine dewatering. Waters Without Frontiers’ expertise
-        include:{' '}
+        include:
       </p>
       <ul>
         <li>

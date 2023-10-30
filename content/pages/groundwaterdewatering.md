@@ -13,7 +13,7 @@ section1: >-
         them dangerous to work in and preventing access to valuable minerals in
         the case of mines. Dewatering also helps to stabilise the ground and
         prevent cave-ins. Waters Without Frontiers provides the following
-        expertise:{' '}
+        expertise:
       </p>
 
       <ul>
