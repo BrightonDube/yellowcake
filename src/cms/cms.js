@@ -9,14 +9,19 @@ import { DefaultPageTemplate } from '../templates/DefaultPage'
 import { BlogIndexTemplate } from '../templates/BlogIndex'
 import { SinglePostTemplate } from '../templates/SinglePost'
 import { ServicesPageTemplate } from '../templates/ServicesPage'
+import { EnvironmentalInvestigationsPageTemplate } from '../templates/EnvironmentalInvestigationsPage'
+import { GroundwaterDewateringTemplate } from '../templates/GroundwaterDewatering'
+import { GroundwaterModellingTemplate } from '../templates/GroundwaterModelling'
+import { GroundwaterSupplyTemplate } from '../templates/GroundwaterSupply'
+import { LandstabilityTemplate } from '../templates/Landstability'
 import uploadcare from 'netlify-cms-media-library-uploadcare'
 
 const config = {
   media_library: {
-      config: {
-          publicKey: process.env.GATSBY_UPLOADCARE_PUBLIC_KEY
-      }
-  },
+    config: {
+      publicKey: process.env.GATSBY_UPLOADCARE_PUBLIC_KEY
+    }
+  }
 }
 CMS.init({ config })
 
@@ -41,6 +46,21 @@ CMS.registerPreviewTemplate('components-page', ({ entry }) => (
 ))
 CMS.registerPreviewTemplate('services-page', ({ entry }) => (
   <ServicesPageTemplate {...entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('environmental-page', ({ entry }) => (
+  <EnvironmentalInvestigationsPageTemplate {...entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('groundwaterdewatering-page', ({ entry }) => (
+  <GroundwaterDewateringTemplate {...entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('groundwatermodelling-page', ({ entry }) => (
+  <GroundwaterModellingTemplate {...entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('groundwatersupply-page', ({ entry }) => (
+  <GroundwaterSupplyTemplate {...entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('landstability-page', ({ entry }) => (
+  <LandstabilityTemplate {...entry.toJS().data} />
 ))
 CMS.registerPreviewTemplate('contact-page', ({ entry }) => (
   <ContactPageTemplate {...entry.toJS().data} />

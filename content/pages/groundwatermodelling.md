@@ -1,42 +1,36 @@
 ---
-template: ServicesPage
-slug: services
-title: Services and Products
+template: GroundwaterModelling
+slug: GroundwaterModelling
+title: GroundwaterModelling
 featuredImage: https://ucarecdn.com/4c552e6a-f238-4d50-b2ca-dfc8a0758ad9/
 subtitle: Waters Without Frontiers has these services and products available
 section1: >-
-  ## Waters Without Frontiers: Your Trusted Partner for Comprehensive Water Resource Management
-
-  At Waters Without Frontiers, we provide a wide range of services to help our clients manage their water resources sustainably and effectively. Our services include:
-
-  - **Land Stability and Subsidence Studies in Dolomitic Environments:** We help our clients to identify and assess the risks of land instability and subsidence in dolomitic environments, and to develop mitigation strategies.
-
-  - **Emergency Water Supply Services:** We provide emergency water supply services to communities that have been affected by droughts, floods, or other disasters.
-
-  - **Groundwater Modelling:** We develop groundwater models to help our clients understand the dynamics of their groundwater resources and to make informed management decisions.
-
-  - **Groundwater Dewatering:** We provide groundwater dewatering services for mining and civil engineering projects.
-
-  - **Geohydrological Impact Assessment**: We conduct geohydrological impact assessments to assess the potential impacts of development projects on groundwater resources.
-
-  - **Rural Sanitation / Groundwater Protocols:** We develop and implement rural sanitation and groundwater protocols to help protect public health and groundwater quality.
-
-  - **Groundwater Supply:** We provide groundwater supply services to communities and businesses.
-  Whether you are a government agency, a mining company, or a rural community, Waters Without Frontiers can help you to manage your water resources sustainably and effectively. Contact us today to learn more about our services.
-section2: >-
-  Semi-precious rock crystals, a diverse and beautiful group of minerals, have been utilized for centuries in jewelry, art, and decoration. These crystals span a broad spectrum of colors, from the clear and sparkling quartz to the deep green jade and the fiery red garnet. Each crystal possesses its own unique properties and meanings, making them a favored choice among individuals of all ages and backgrounds.
-
-  If you’re in search of a striking piece of jewelry to enhance your collection or a distinctive gift for a loved one, semi-precious rock crystals are bound to delight. Here are just a few of the numerous advantages of owning these exquisite stones:
-
-  - **Beauty and Elegance:** Semi-precious rock crystals are renowned for their natural beauty and elegance. They can be adorned as jewelry, showcased in your home, or incorporated into creative projects to infuse a touch of luxury and sophistication.
-
-  - **Durability:** Semi-precious rock crystals are remarkably durable and can endure for generations with appropriate care. This makes them an excellent investment for anyone seeking a piece of jewelry or home decor that will withstand the test of time.
-
-  - **Healing Properties:** Many individuals believe that semi-precious rock crystals possess healing properties. Some crystals are thought to foster emotional well-being, while others are believed to offer physical healing benefits. Regardless of whether you subscribe to the healing power of crystals, there’s no denying their potential to positively influence your overall well-being.
-
-  - **Uniqueness:** Each semi-precious rock crystal is unique in its own right. No two crystals are exactly alike, rendering them a special and personal gift. 
-  
-section3: >-  
+  <h3>Environmental Assessments</h3>
+       <p>
+         South Africa has enacted laws requires that those who cause negative
+         impacts on the environment own up and remedy the impacts. Groundwater
+         resources are particularly vulnerable to impacts of industrial, mining
+         and farming activities. The impacts relate to degradation of water
+         quality due to pollution, and depletion of groundwater resources due to
+         over pumping and mine dewatering. Waters Without Frontiers’ expertise
+         include:{' '}
+       </p>
+       <ul>
+         <li>
+           {' '}
+           Assessment of the nature and extent of groundwater contamination.
+         </li>
+         <li>Assessment of Acid Mine Drainage (AMD).</li>
+         <li>Design of groundwater monitoring programme.</li>
+         <li>
+           Groundwater sampling and geohydro-chemical evaluation according to
+           established standards and guidelines. The company has portable battery
+           operated water sampling pumps
+         </li>
+         <li>Delineation of contamination plumes,</li>
+         <li>Delineation of contaminant capture zones,</li>
+         <li>
+section3: >-
   ### *LAND STABILITY AND SUBSIDENCE STUDIES IN DOLOMITIC ENVIRONMENTS*
 
   Structures erected on carbonate rocks such as dolomite and limestone are vulnerable to destruction due to land subsidence and sinkhole formation. Waters Without Frontiers has the expertise to conduct a risk assessment on the suitability of land for housing and infrastructural development. Associated activities include:
