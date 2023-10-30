@@ -5,6 +5,7 @@ import PageHeader from '../components/PageHeader'
 import Content from '../components/Content.js'
 import Layout from '../components/Layout.js'
 import Accordion from '../components/Accordion'
+import SecNav from '../components/SecNav'
 
 // Export Template for use in CMS preview
 export const GroundwaterDewateringTemplate = ({
@@ -12,11 +13,8 @@ export const GroundwaterDewateringTemplate = ({
   subtitle,
   featuredImage,
   section1,
-  section2,
-  section3,
-  accordion,
-  body,
-  gallery
+  accordion,  
+  body, 
 }) => (
   <main>
     <PageHeader
@@ -26,46 +24,10 @@ export const GroundwaterDewateringTemplate = ({
     />
     <section className="section">
       <div className="container">
+      <SecNav />
         <Content source={section1} />
       </div>
-    </section>
-
-    <section className="section">
-      <div className="container">
-        <Content source={section3} />
-      </div>
-    </section>
-
-    <section className="section">
-      <div className="container">
-        <h2>Our GroundwaterDewatering</h2>
-      </div>
-    </section>
-    <section className="section">
-      <div className="container">
-        <h1>Exquisite Rock Crystals Available for Purchase</h1>
-        <Content source={section2} />
-      </div>
-    </section>
-    <section className="section">
-      <div className="container">
-        <h3>We have these beautiful Gemstones for sale</h3>
-      </div>
-      <div
-        style={{
-          paddingTop: '80px',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          height: '100%'
-        }}
-      >
-        <h4>
-          Call or Whatsapp <a href="tel:+27615895614">061 589 5614</a> Today for
-          more information!
-        </h4>
-      </div>
-    </section>
+    </section>  
     <section className="section">
       <div className="container">
         <Accordion items={accordion} />
@@ -100,13 +62,10 @@ export const pageQuery = graphql`
         template
         subtitle
         featuredImage
-        section1
-        section2
-        section3
+        section1       
         accordion {
           title
-          description
-          image
+          description          
         }
       }
     }

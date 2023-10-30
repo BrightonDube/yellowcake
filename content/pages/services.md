@@ -35,40 +35,11 @@ section2: >-
   - **Healing Properties:** Many individuals believe that semi-precious rock crystals possess healing properties. Some crystals are thought to foster emotional well-being, while others are believed to offer physical healing benefits. Regardless of whether you subscribe to the healing power of crystals, there’s no denying their potential to positively influence your overall well-being.
 
   - **Uniqueness:** Each semi-precious rock crystal is unique in its own right. No two crystals are exactly alike, rendering them a special and personal gift. 
-  
-section3: >-  
-  ### *LAND STABILITY AND SUBSIDENCE STUDIES IN DOLOMITIC ENVIRONMENTS*
-
-  Structures erected on carbonate rocks such as dolomite and limestone are vulnerable to destruction due to land subsidence and sinkhole formation. Waters Without Frontiers has the expertise to conduct a risk assessment on the suitability of land for housing and infrastructural development. Associated activities include:
-
-  -	Gravity geophysical survey to locate cavities,
-
-  -	Creation of gravity contours to zoom in on potential cavities,
-
-  -	Drilling to verify the cavities,
-
-  -	Recommendation of remedial measures
-
-  ### Emergency Water Supply
-
-  One of the most important needs for communities hit by disasters, whether natural or man-made, is the provision of emergency safe and clean drinking water immediately after the disaster. Waters Without Frontiers has capacity to:  
-
-  -	Assess water requirements of communities hit by the disaster,
-
-  -	Identify and mobilise emergency water supply resources to alleviate human suffering. Such resources include:
-
-  - Trailer mounted mobile water purification plants,
-
-  -	Lifesaver bottles that have a filter which can make the most revolting water
-   drinkable in seconds, enabling the use of water directly from the river.
-
-  -	Anti-bacteria tablets.
-
-  -	Tanker trucks to affected communities
 
 accordion:
   - description: At Waters Without Frontiers, we believe that access to clean and safe water is a fundamental right. Our team works tirelessly to identify new water sources and improve existing supply systems. We employ cutting-edge technology and innovative strategies to ensure the water we provide meets the highest standards of safety and cleanliness.
     title: Water Supply
+    to: groundwatersupply
     image: <img src="https://ucarecdn.com/3a5d9fd4-e6d6-4644-ab52-314df26b6a20/" alt="Alt image"/>
   - description: Our commitment to environmental stewardship is at the heart of what we do. We conduct thorough investigations into the health of aquatic ecosystems, monitor changes in water quality, and study the effects of pollution. Our findings guide our efforts to mitigate environmental impact and promote sustainable practices.
     title: Environmental Investigations

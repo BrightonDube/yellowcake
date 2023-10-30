@@ -5,44 +5,86 @@ title: Environmental Investigations
 featuredImage: https://ucarecdn.com/4c552e6a-f238-4d50-b2ca-dfc8a0758ad9/
 subtitle: Waters Without Frontiers has these services and products available
 section1: >-
-  <h3>Environmental Assessments</h3>
-       <p>
-         South Africa has enacted laws requires that those who cause negative
-         impacts on the environment own up and remedy the impacts. Groundwater
-         resources are particularly vulnerable to impacts of industrial, mining
-         and farming activities. The impacts relate to degradation of water
-         quality due to pollution, and depletion of groundwater resources due to
-         over pumping and mine dewatering. Waters Without Frontiers’ expertise
-         include:{' '}
-       </p>
-       <ul>
-         <li>
-           {' '}
-           Assessment of the nature and extent of groundwater contamination.
-         </li>
-         <li>Assessment of Acid Mine Drainage (AMD).</li>
-         <li>Design of groundwater monitoring programme.</li>
-         <li>
-           Groundwater sampling and geohydro-chemical evaluation according to
-           established standards and guidelines. The company has portable battery
-           operated water sampling pumps
-         </li>
-         <li>Delineation of contamination plumes,</li>
-         <li>Delineation of contaminant capture zones,</li>
-         <li>
+ <h1>Environmental Investigations</h1>      
+      <h4 style={{fontStyle: 'italic'}} >Environmental Assessments</h4>
+      <p>
+        South Africa has enacted laws requires that those who cause negative
+        impacts on the environment own up and remedy the impacts. Groundwater
+        resources are particularly vulnerable to impacts of industrial, mining
+        and farming activities. The impacts relate to degradation of water
+        quality due to pollution, and depletion of groundwater resources due to
+        over pumping and mine dewatering. Waters Without Frontiers’ expertise
+        include:
+      </p>
+      <ul>
+        <li>
+          Assessment of the nature and extent of groundwater contamination.
+        </li>
+        <li>Assessment of Acid Mine Drainage (AMD).</li>
+        <li>Design of groundwater monitoring programme.</li>
+        <li>
+          Groundwater sampling and geohydro-chemical evaluation according to
+          established standards and guidelines. The company has portable battery
+          operated water sampling pumps
+        </li>
+        <li>Delineation of contamination plumes,</li>
+        <li>Delineation of contaminant capture zones,</li>
+        <li>
+          Groundwater modelling to simulate potential impacts on groundwater and
+          assess effectiveness of proposed remedial action.
+        </li>
+        <li>Design and implementation of remediation measures,</li>
+      </ul>
+      <img
+        src="https://ucarecdn.com/c6d3bd26-58b6-4245-beeb-a1ddc2b8ec57/water1.png"
+        alt="Sysmeic Survey"
+      />
+      <figcaption>
+        Purging a borehole prior to collecting groundwater samples
+      </figcaption>
+      <div className="spacer"></div>
+      <div className="spacer"></div>
+      <div className="spacer">
+        <img
+          src="https://ucarecdn.com/6c226512-4ffe-4e24-8eb3-affb39ceead2/water.png"
+          alt="Sysmeic Survey"
+        />
+      </div>
+
+      <div className="spacer">
+        <img
+          src="https://ucarecdn.com/ad2de70d-e73b-40ef-96c7-f90133d2cc78/batteryop.png"
+          alt="Sysmeic Survey"
+        />
+        <figcaption>Battery operated groundwater sampling pump</figcaption>
+      </div>
+
+      <div className="spacer">
+        <h3>Environmental Authorizations</h3>
+
+        <p>
+          Waters Without Frontiers provides geohydrological input into
+          environmental authorisations such as:
+        </p>
+
+        <ul>
+          <li>Environmental Impact Assessments (EIA),</li>
+          <li>Water use licence applications,</li>
+          <li>
+            Permit applications to establish and operate waste disposal sites,
+          </li>
+          <li>Environmental Management Programme Reports (EMPR),</li>
+          <li>
+            Environmental Auditing for compliance with the provisions of the
+            Water Act,
+          </li>
+          <li>Environmental Liability Assessment,</li>
+          <li>Environmental Risk Assessment,</li>
+          <li>Mining Feasibility Studies and mining right application.</li>
+        </ul>
+      </div>
 section3: >-
-  ### *LAND STABILITY AND SUBSIDENCE STUDIES IN DOLOMITIC ENVIRONMENTS*
-
-  Structures erected on carbonate rocks such as dolomite and limestone are vulnerable to destruction due to land subsidence and sinkhole formation. Waters Without Frontiers has the expertise to conduct a risk assessment on the suitability of land for housing and infrastructural development. Associated activities include:
-
-  -	Gravity geophysical survey to locate cavities,
-
-  -	Creation of gravity contours to zoom in on potential cavities,
-
-  -	Drilling to verify the cavities,
-
-  -	Recommendation of remedial measures
-
+  
   ### Emergency Water Supply
 
   One of the most important needs for communities hit by disasters, whether natural or man-made, is the provision of emergency safe and clean drinking water immediately after the disaster. Waters Without Frontiers has capacity to:  

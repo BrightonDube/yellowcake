@@ -47,7 +47,7 @@ CMS.registerPreviewTemplate('components-page', ({ entry }) => (
 CMS.registerPreviewTemplate('services-page', ({ entry }) => (
   <ServicesPageTemplate {...entry.toJS().data} />
 ))
-CMS.registerPreviewTemplate('environmental-page', ({ entry }) => (
+CMS.registerPreviewTemplate('environmentalinvestigationspage-page', ({ entry }) => (
   <EnvironmentalInvestigationsPageTemplate {...entry.toJS().data} />
 ))
 CMS.registerPreviewTemplate('groundwaterdewatering-page', ({ entry }) => (
