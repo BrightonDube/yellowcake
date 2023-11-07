@@ -2,7 +2,7 @@
 template: EnvironmentalInvestigationsPage
 slug: EnvironmentalInvestigations
 title: Environmental Investigations
-featuredImage: https://ucarecdn.com/4c552e6a-f238-4d50-b2ca-dfc8a0758ad9/
+featuredImage: https://ucarecdn.com/88a1895d-b674-4c97-82cf-dd013f902c62/
 subtitle: Waters Without Frontiers has these services and products available
 section1: >-
  <h1>Environmental Investigations</h1>      
@@ -42,16 +42,14 @@ section1: >-
       <figcaption>
         Purging a borehole prior to collecting groundwater samples
       </figcaption>
-      <div className="spacer"></div>
-      <div className="spacer"></div>
-      <div className="spacer">
+     <br/>
         <img
           src="https://ucarecdn.com/6c226512-4ffe-4e24-8eb3-affb39ceead2/water.png"
           alt="Sysmeic Survey"
         />
       </div>
 
-      <div className="spacer">
+      <br/>
         <img
           src="https://ucarecdn.com/ad2de70d-e73b-40ef-96c7-f90133d2cc78/batteryop.png"
           alt="Sysmeic Survey"
@@ -59,7 +57,7 @@ section1: >-
         <figcaption>Battery operated groundwater sampling pump</figcaption>
       </div>
 
-      <div className="spacer">
+      <br/>
         <h3>Environmental Authorizations</h3>
 
         <p>

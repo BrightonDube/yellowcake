@@ -1,8 +1,8 @@
 ---
 template: GroundwaterDewatering
 slug: GroundwaterDewatering
-title: GroundwaterDewatering
-featuredImage: https://ucarecdn.com/4c552e6a-f238-4d50-b2ca-dfc8a0758ad9/
+title: Groundwater Dewatering
+featuredImage: https://ucarecdn.com/3a5d9fd4-e6d6-4644-ab52-314df26b6a20/
 subtitle: Waters Without Frontiers has these services and products available
 section1: >-
   <h3>Groundwater Dewatering</h3>
