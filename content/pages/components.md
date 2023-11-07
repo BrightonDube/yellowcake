@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: components
 title: Projects
-featuredImage: https://ucarecdn.com/f26e05e3-bcbf-46f8-a287-35a9c9393317/
+featuredImage: https://ucarecdn.com/8bfac89b-ffdf-4578-b7c1-a4797b515279/
 subtitle: Innovative Projects by Waters Without Frontiers
 section1: >-
   ## Revolutionizing Water Management Across Sectors
