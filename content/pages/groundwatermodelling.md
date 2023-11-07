@@ -43,7 +43,7 @@ section1: >-
         />
         <figcaption>Typical groundwater model grid</figcaption>
       </div>
-      <<br />
+      <br />
         <img
           src="https://ucarecdn.com/361eb596-a933-454f-8e2d-831e8f69b890/modeloutput.png"
           alt="model grid output"
