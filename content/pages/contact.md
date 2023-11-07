@@ -4,7 +4,12 @@ slug: contact
 title: Contact Us
 featuredImage: https://ucarecdn.com/1daf38b9-3f5e-49a2-947a-24587ed0b338/
 subtitle: Get in Touch with Us; We’re Here to Help You with Your Water Management Needs.
-address: '129 Freesia Drive, Country View, Midrand'
+address: 'Unit 59 Santa Cruz,
+132 Strelitzia Avenue, 
+Country View, 
+Midrand,
+1687
+'
 phone: +27 61 589 5614
 email: andrew.mavurayi@waterfrontiers.co.za
 locations:
