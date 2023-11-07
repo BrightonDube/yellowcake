@@ -64,6 +64,8 @@ section1: >-
         alt="Sysmeic Survey"
       />
       <figcaption>PCFDEM 24 Bit Electromagnetic survey equipment</figcaption>
+      
+      <br/>
       <h3>Ground Water Development</h3>
       <ul>
         <li>Borehole drilling supervision and construction design,</li>
@@ -79,6 +81,25 @@ section1: >-
           using groundwater-modelling software.
         </li>
       </ul>
+
+section3: >-
+
+  ### Emergency Water Supply
+
+  One of the most important needs for communities hit by disasters, whether natural or man-made, is the provision of emergency safe and clean drinking water immediately after the disaster. Waters Without Frontiers has capacity to:  
+
+  -	Assess water requirements of communities hit by the disaster,
+
+  -	Identify and mobilise emergency water supply resources to alleviate human suffering. Such resources include:
+
+  - Trailer mounted mobile water purification plants,
+
+  -	Lifesaver bottles that have a filter which can make the most revolting water
+   drinkable in seconds, enabling the use of water directly from the river.
+
+  -	Anti-bacteria tablets.
+
+  -	Tanker trucks to affected communities
 
 accordion:
   - description: At Waters Without Frontiers, we believe that access to clean and safe water is a fundamental right. Our team works tirelessly to identify new water sources and improve existing supply systems. We employ cutting-edge technology and innovative strategies to ensure the water we provide meets the highest standards of safety and cleanliness.

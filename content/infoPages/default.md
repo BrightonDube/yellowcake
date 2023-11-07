@@ -32,6 +32,8 @@ At Waters Without Frontiers, we are always looking forward to new collaborations
 
 **Andrew Mavurayi:** As the Principal Hydrogeologist and Owner, Andrew is the driving force behind Waters Without Frontiers. His expertise and leadership guide our mission and vision.
 
+Andrew Mavurayi holds an MSc degree in hydrogeology from University College London, England, 1989. He has 30 years of experience in groundwater investigations covering all aspects groundwater. He has worked for several organisations that include the Department of Water Affairs in Zimbabwe, Geoflux Consulting in Botswana; Steffen Robertson and Kirsten Consulting Engineers, Jeffers Green and Parkman Consulting Engineers and the Department of Water and Sanitation in South Africa. He is currently a principal hydrogeologist and owner of Waters Without Frontiers Consulting, based in Midrand, Johannesburg. 
+
 **Mokwand Ndlovu:** As a Senior Hydrogeologist and Field Coordinator, Mokwand plays a crucial role in our on-ground operations. His field expertise ensures our solutions are implemented seamlessly.
 
 **Brain Chikanga:** Brain is our Hydrogeological Field Technician. His technical skills and field knowledge play a vital role in the successful implementation of our solutions.

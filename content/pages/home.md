@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Waters Without Frontiers
-featuredImage: 'https://ucarecdn.com/0bdda565-e29b-41ea-90fc-6d1882025f4b/'
+featuredImage: 'https://ucarecdn.com/46f249ab-6156-43f8-a75a-f9454f70522f/'
 subtitle: ' Bridging continents, transcending borders, and uniting humanity through the essential life-giving force of water.'
 meta:
   description: Waters Without Frontiers is a company that delivers water solutions across the globe. They believe in a world where everyone has access to clean and safe water. Learn more about their mission and services.

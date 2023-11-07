@@ -13,8 +13,9 @@ export const GroundwaterSupplyTemplate = ({
   subtitle,
   featuredImage,
   section1,
-  accordion,  
-  body, 
+  section3,
+  accordion,
+  body
 }) => (
   <main>
     <PageHeader
@@ -24,10 +25,11 @@ export const GroundwaterSupplyTemplate = ({
     />
     <section className="section">
       <div className="container">
-      <SecNav />
+        <SecNav />
         <Content source={section1} />
+        <Content source={section3} />
       </div>
-    </section>  
+    </section>
     <section className="section">
       <div className="container">
         <Accordion items={accordion} />
@@ -62,6 +64,7 @@ export const pageQuery = graphql`
         subtitle
         featuredImage
         section1
+        section3
         accordion {
           title
           description
