@@ -1,8 +1,8 @@
 ---
 template: GroundwaterSupply
 slug: GroundwaterSupply
-title: GroundwaterSupply
-featuredImage: https://ucarecdn.com/4c552e6a-f238-4d50-b2ca-dfc8a0758ad9/
+title: Groundwater Supply
+featuredImage: https://ucarecdn.com/dc9b2812-a26f-49a7-b441-bbd572e69efe/
 subtitle: Waters Without Frontiers has these services and products available
 section1: >-
   <h1>Groundwater Supply</h1>

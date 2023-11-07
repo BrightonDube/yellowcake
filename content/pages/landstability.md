@@ -2,11 +2,11 @@
 template: Landstability
 slug: Landstability
 title: Landstability
-featuredImage: https://ucarecdn.com/4c552e6a-f238-4d50-b2ca-dfc8a0758ad9/
+featuredImage: https://ucarecdn.com/1c2b1456-ebcb-402a-9a3e-ca36d2f9e893/
 subtitle: Waters Without Frontiers has these services and products available
 section1: >-
  
-  ### *LAND STABILITY AND SUBSIDENCE STUDIES IN DOLOMITIC ENVIRONMENTS*
+  ### LAND STABILITY AND SUBSIDENCE STUDIES IN DOLOMITIC ENVIRONMENTS
 
   Structures erected on carbonate rocks such as dolomite and limestone are vulnerable to destruction due to land subsidence and sinkhole formation. Waters Without Frontiers has the expertise to conduct a risk assessment on the suitability of land for housing and infrastructural development. Associated activities include:
 
@@ -18,23 +18,24 @@ section1: >-
 
   -	Recommendation of remedial measures
 
-  ### Emergency Water Supply
+  ### Geotechnical Investigations and Soil Testing 
 
-  One of the most important needs for communities hit by disasters, whether natural or man-made, is the provision of emergency safe and clean drinking water immediately after the disaster. Waters Without Frontiers has capacity to:  
+  Before any construction begins, it is crucial to conduct geotechnical investigations and soil testing. This process involves collecting soil samples from the proposed construction site and analyzing them for various properties such as strength, permeability, and compressibility. The results of these tests provide valuable information about the suitability of the soil for construction and the type of foundation required.
 
-  -	Assess water requirements of communities hit by the disaster,
+  ### Monitoring and Mitigation Strategies
 
-  -	Identify and mobilise emergency water supply resources to alleviate human suffering. Such resources include:
+  Continuous monitoring of the site is essential to detect any signs of land subsidence or sinkhole formation early. This can be achieved through the installation of geotechnical instruments such as inclinometers and piezometers. If any signs of instability are detected, mitigation strategies such as grouting or the construction of retaining walls can be implemented to stabilize the land.
 
-  - Trailer mounted mobile water purification plants,
+  ### Environmental Impact Assessment
 
-  -	Lifesaver bottles that have a filter which can make the most revolting water
-   drinkable in seconds, enabling the use of water directly from the river.
+  An Environmental Impact Assessment (EIA) is also conducted to evaluate the potential environmental effects of the proposed construction. This includes assessing the impact on local flora and fauna, water resources, air quality, and noise levels. The EIA helps in making informed decisions and implementing measures to minimize the environmental impact of the construction.
 
-  -	Anti-bacteria tablets.
 
-  -	Tanker trucks to affected communities
+ 
 
+   
+
+   
 accordion:
   - description: At Waters Without Frontiers, we believe that access to clean and safe water is a fundamental right. Our team works tirelessly to identify new water sources and improve existing supply systems. We employ cutting-edge technology and innovative strategies to ensure the water we provide meets the highest standards of safety and cleanliness.
     title: Water Supply
